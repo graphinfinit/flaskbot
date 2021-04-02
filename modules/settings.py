@@ -5,11 +5,11 @@
 """
 
 
-# webhook https://api.telegram.org/bot1711344229:AAFADdDFDhLeix3ihMeF8tyj3nOG2Uqp5Z8/setWebhook?url=https://5e3af7175644.ngrok.io
+# webhook https://api.telegram.org/bot1711344229:AAFADdDFDhLeix3ihMeF8tyj3nOG2Uqp5Z8/setWebhook?url=///
 
 
 TELEGRAM_URL = 'https://api.telegram.org/bot'
-TOKEN = '1711344229:AAFADdDFDhLeix3ihMeF8tyj3nOG2Uqp5Z8'
+TOKEN = '///'
 
 # количество анализируемых дней для записи
 DELTA = 33
